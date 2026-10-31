@@ -1,0 +1,21 @@
+{
+  "name": "insightfulpipe-growth",
+  "displayName": "InsightfulPipe Growth & App Marketing Skills",
+  "description": "25 free Claude skills for growth and app marketing: growth loops, North Star metric, trial-to-paid, paywalls, lead magnets, app store optimization, Apple Ads and app attribution.",
+  "version": "2026.10.3107",
+  "author": {
+    "name": "InsightfulPipe",
+    "url": "https://insightfulpipe.com"
+  },
+  "homepage": "https://insightfulpipe.com/marketing-claude-skills",
+  "repository": "https://github.com/Insightful-Pipe/growth-skills",
+  "license": "MIT",
+  "keywords": [
+    "growth-marketing",
+    "product-led-growth",
+    "app-marketing",
+    "aso",
+    "claude-skills",
+    "marketing"
+  ]
+}
